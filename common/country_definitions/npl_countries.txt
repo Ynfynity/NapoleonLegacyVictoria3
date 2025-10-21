@@ -1,7 +1,7 @@
 # List of country
 
 0FR = {  # France
-	color = { 3  34  76 }
+	color = { 0  0  150 }
 
 	country_type = recognized
 
