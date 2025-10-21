@@ -1,5 +1,5 @@
 ﻿CHARACTERS = {
-	c:ZZZ ?= {
+	c:0FR ?= {
 		# Ruler / Heir
 		create_character = {
 			template = ALW_banni_singh_template
